@@ -13,7 +13,7 @@ O objetivo é demonstrar na prática como uma CPU executa instruções em ciclos
 
 ## Componentes
 
-### ALU (Unidade Lógico-Aritmética)
+### ALU (Unidade Lógica Aritmética)
 
 A ALU recebe três entradas principais:
 
